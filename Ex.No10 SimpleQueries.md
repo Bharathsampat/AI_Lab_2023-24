@@ -52,7 +52,7 @@ Convert the facts in predicate form to clauses and then prove by resolution: “
     hard_course(science).
     easy_course(X) :-
     in_department(X, have_fun).
-   in_department(bk301, have_fun).
+    in_department(bk301, have_fun).
 
 ### Output:
 
