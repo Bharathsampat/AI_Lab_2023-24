@@ -110,7 +110,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-Code to generate table:
+Code to generate validation table:
 
 ```
 import pandas as pd
