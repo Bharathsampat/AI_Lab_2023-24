@@ -177,7 +177,8 @@ print(f"\n5-Fold Cross-Validation Accuracy: {cv_scores.mean():.4f} (+/- {cv_scor
 
 ###VALIDATION TABLE:
 
-![WhatsApp Image 2025-05-20 at 13 21 34_0dcbf5db](https://github.com/user-attachments/assets/ae4edfba-940d-4180-a099-2584534e50cb)
+![WhatsApp Image 2025-05-20 at 13 23 55_94c2cb97](https://github.com/user-attachments/assets/f0b64550-7e87-486c-aae7-e234f8392be4)
+
 
 
 
